@@ -1,0 +1,27 @@
+{
+  "name": "express-site-project-6-fsjs",
+  "version": "1.0.0",
+  "description": "a Portfolio site that showcases projects ive built. Containing a landing page, about page, and projects page.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarciaX33/Express-Site-Project-6-FSJS.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Daniel Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GarciaX33/Express-Site-Project-6-FSJS/issues"
+  },
+  "homepage": "https://github.com/GarciaX33/Express-Site-Project-6-FSJS#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  }
+}
