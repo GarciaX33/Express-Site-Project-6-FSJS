@@ -36,7 +36,7 @@ app.use((err, req, res, next) => {
   res.status(err.status)
   res.render('error');
 })
-
+ /** listen on port 3000,log a string to the console that says which port the app is listening to.**/
 app.listen(3000, () => {
   console.log("app is listening to localhost:3000")
 });
