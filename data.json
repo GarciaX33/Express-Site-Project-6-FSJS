@@ -46,7 +46,7 @@
                     "images/project4-1200-1.jpg",
                     "images/project4-1200-2.jpg",
                     "images/project4-1200-3.jpg",
-                    "images/project4-1200-3.jpg"]
+                    "images/project4-1200-4.jpg"]
     },
     {
       "id": 4,
@@ -58,7 +58,6 @@
       "image_urls": ["images/project5-550.jpg",
                     "images/project5-1200-1.jpg",
                     "images/project5-1200-2.jpg",
-                    "images/project5-1200-3.jpg",
                     "images/project5-1200-3.jpg"]
     }
   ],
