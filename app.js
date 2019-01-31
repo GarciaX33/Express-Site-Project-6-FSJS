@@ -24,7 +24,7 @@ app.get('/projects:id', (req, res) => {
     id : req.params.id
   });
 });
-
+/** Handling 404 Errors Middleware Functions**/
 app.use((req, res, next) => {
   const err = new Error('Page Not Found');
   err.status = 404;
