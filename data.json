@@ -1,0 +1,72 @@
+/*create an object literal that contains a single property called projects. The value of projects is an array containing an object for each project you wish to include in your portfolio. Each project contains the following properties:id,project_name,description,technologies,live_link,github_link,image_urls
+*/
+{"projects": [
+    {
+      "id": 0,
+      "project_name": "Random Quote Generator",
+      "description": "Random Quote Generator that displays a new quote every time the button is clicked",
+      "technologies": ["JavaScript", "HTML", "CSS", "Git", "Atom"],
+      "live_link": "https://garciax33.github.io/Quote-Generator-Project1/",
+      "github_link": "https://github.com/GarciaX33/Quote-Generator-Project1/settings",
+      "image_urls": ["images/project1-550.jpg",
+                    "images/project1-1200-1.jpg",
+                    "images/project1-1200-2.jpg",
+                    "images/project1-1200-3.jpg"]
+    },
+    {
+      "id": 1,
+      "project_name": "Students List and Pagination Page",
+      "description": "a multiple page site that lists 10 students per page",
+      "technologies": ["JavaScript", "HTML", "CSS", "Git", "Atom"],
+      "live_link": "https://garciax33.github.io/list-and-pagination-project2/",
+      "github_link": "https://github.com/GarciaX33/list-and-pagination-project2",
+      "image_urls": ["images/project2-550.jpg",
+                    "images/project2-1200-1.jpg",
+                    "images/project2-1200-2.jpg",
+                    "images/project2-1200-3.jpg"]
+    },
+    {
+      "id": 2,
+      "project_name": "Interactive Form Page",
+      "description": "a interactive form that alerts the user when certain parts of the form are incomplete, and adds up price of events checked with click",
+      "technologies": ["JavaScript", "HTML", "CSS", "Git", "Atom", "JQuery"],
+      "live_link": "https://garciax33.github.io/interactive-form-FSJS-Project-3/",
+      "github_link": "https://github.com/GarciaX33/interactive-form-FSJS-Project-3",
+      "image_urls": ["images/project3-550.jpg",
+                    "images/project3-1200-1.jpg",
+                    "images/project3-1200-2.jpg",
+                    "images/project3-1200-3.jpg"]
+    },
+    {
+      "id": 3,
+      "project_name": "OOP Phase Hunter Game App",
+      "description": "OOP game that gives 5 lives to guess a randomly selected phrase from an array of phrases letter by letter",
+      "technologies": ["JavaScript", "HTML", "CSS", "JQuery", "Git", "OOP"],
+      "live_link": "https://garciax33.github.io/OOP-Game-FSJS-Project4/",
+      "github_link": "https://github.com/GarciaX33/OOP-Game-FSJS-Project4",
+      "image_urls": ["images/project4-550.jpg",
+                    "images/project4-1200-1.jpg",
+                    "images/project4-1200-2.jpg",
+                    "images/project4-1200-3.jpg",
+                    "images/project4-1200-3.jpg"]
+    },
+    {
+      "id": 4,
+      "project_name": "Employee Directory API Requests",
+      "description": "Interactive site displaying Employee information from randomuser.me API.",
+      "technologies": ["JavaScript", "HTML", "CSS", "JQuery", "Git", "RandomUserAPI"],
+      "live_link": "https://garciax33.github.io/API-Request-Project-5-FSJS/",
+      "github_link": "https://github.com/GarciaX33/API-Request-Project-5-FSJS/",
+      "image_urls": ["images/project5-550.jpg",
+                    "images/project5-1200-1.jpg",
+                    "images/project5-1200-2.jpg",
+                    "images/project5-1200-3.jpg",
+                    "images/project5-1200-3.jpg"]
+    }
+  ],
+
+  "profile" : [
+    {
+    "image" : "images/profilepic.jpg"
+  }]
+}
